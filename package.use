@@ -1,0 +1,9 @@
+app-portage/layman sync-plugin-portage
+dev-lang/python sqlite
+dev-libs/openssl -bindist
+kde-base/kdelibs -udev -udisks -upower
+media-libs/libpng apng
+sys-libs/ncurses abi_x86_32
+x11-libs/gdk-pixbuf X
+x11-libs/lxbxcb xkb
+x11-libs/pango X

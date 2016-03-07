@@ -1,0 +1,20 @@
+=app-portage/layman-2.3.0-r1 ~amd64
+=sys-apps/systemd-220-r2
+=x11-wm/enlightenment-0.19.4 ~amd64
+=dev-libs/efl-1.13.1 ~amd64
+=dev-util/android-sdk-update-manager-23 ~amd64
+=media-libs/elementary-1.13.1 ~amd64
+=www-client/firefox-38.0.1 ~amd64
+www-client/firefox ~amd64
+=dev-libs/nss-3.19.1 ~amd64
+=virtual/udev-217 ~amd64
+
+# iwl6005-ucode needed for closed-source IWL 6200-AGN chip
+=sys-firmware/iwl6005-ucode-18.168.6.1 ~amd64
+=sys-firmware/iwl6050-ucode-41.28.5.1 ~amd64
+=media-video/vlc-2.2.1 ~amd64
+=www-client/chromium-45.0.2454.46 ~amd64
+=dev-python/setuptools-18.2-r2 ~amd64
+=net-analyzer/wireshark-1.99.8 ~amd64
+app-text/libwps ~amd64
+=x11-wm/i3-4.11 ~amd64
