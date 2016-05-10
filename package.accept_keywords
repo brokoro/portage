@@ -2,11 +2,14 @@
 =sys-apps/systemd-220-r2
 =x11-wm/enlightenment-0.19.4 ~amd64
 =dev-libs/efl-1.13.1 ~amd64
+=dev-python/virtualenvwrapper-4.7.1 ~amd64
 =dev-util/android-sdk-update-manager-23 ~amd64
 =media-libs/elementary-1.13.1 ~amd64
 =www-client/firefox-38.0.1 ~amd64
 www-client/firefox ~amd64
 =dev-libs/nss-3.19.1 ~amd64
+>=virtual/jdk-1.8.0 ~amd64
+>=virtual/jre-1.8.0 ~amd64
 =virtual/udev-217 ~amd64
 
 # iwl6005-ucode needed for closed-source IWL 6200-AGN chip
@@ -18,3 +21,4 @@ www-client/firefox ~amd64
 =net-analyzer/wireshark-1.99.8 ~amd64
 app-text/libwps ~amd64
 =x11-wm/i3-4.11 ~amd64
+=dev-java/oracle-jdk-bin-1.8.0.25 ~amd64
